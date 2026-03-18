@@ -1,0 +1,41 @@
+PRE.TEST PYTHON
+
+https://docs.google.com/forms/d/e/1FAIpQLSc5_3C7bOhSsCxoUiqjirtCCBj0mV5BTqC6_Ony-R9plYNMig/viewform?usp=publish-editor
+
+https://docs.google.com/forms/d/1CH47RykgqcP3nddy3jxaJp3e0XMRd0u3-CXJMWjZ0b0/viewform?edit_requested=true
+
+POST.TEST PYTHON
+
+https://forms.gle/mbdnLosLKFVy55HK9
+
+
+RESPUESTAS PRE TEST
+
+📋 Pre-Test: Respuestas Correctas
+Pregunta	Respuesta Correcta	Explicación
+1	 Un conjunto de instrucciones que una computadora puede entender y ejecutar.	Un lenguaje de programación es un medio para comunicarle instrucciones a una computadora.
+2	 Las instrucciones escritas por un programador en un lenguaje de programación.	El código fuente son las instrucciones que escribe el programador, antes de ser ejecutadas.
+3	 25	                                                                            25 es un número entero. "Hola" es texto y "Verdadero" es un valor booleano.
+4	 Suma	                                El signo "+" se usa para sumar números (y también para unir texto).
+5	 edad = 20	                            En Python (y muchos lenguajes), "=" asigna un valor a una variable.
+6	 Hacer que la computadora lea y realice las instrucciones del programa.	        Ejecutar significa correr el programa para que la computadora haga lo que indica.
+7	 Un programa que permite interactuar con el sistema operativo mediante comandos de texto.	La terminal o consola es una interfaz de texto para dar órdenes al sistema.
+8	 Booleano	                            El tipo booleano solo puede ser verdadero (True) o falso (False).
+9	 Mostrar un mensaje en la pantalla.	print() muestra texto o valores en la consola.
+10	 Asignar un valor a una variable.	    En programación, "=" es asignación (no comparación).
+
+
+POST TEST
+
+Post-Test: Respuestas Correctas
+Respuesta Correcta	    Explicación
+1	 Todos los anteriores	            Python tiene int (enteros), str (strings/texto) y bool (booleanos).
+2	 print("Hola")	                La función print() es la forma correcta de mostrar mensajes en Python.
+3	 3	                            El operador // hace división entera: 10 // 3 = 3 (resto 1).
+4	 if x > 5: print("mayor")	        En Python no se usan llaves ni "then"; la indentación define el bloque.
+5	 Repite el bloque 3 veces.	    range(3) genera los números 0,1,2 → 3 iteraciones.
+6	 def saludar():	                La palabra clave para definir funciones en Python es "def".
+7	 Una cadena de texto.	            input() siempre devuelve un string, aunque el usuario escriba números.
+8	 and	                            El operador lógico "y" en Python es "and" (no && como en otros lenguajes).
+9	 for	                            El bucle for se usa para recorrer colecciones como listas.
+10	 Para detener un bucle y salir.	break termina el bucle anticipadamente (en la calculadora, para salir del programa).

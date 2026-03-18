@@ -1,0 +1,26 @@
+Recursos para Seguir Aprendiendo 
+Documentación Oficial 
+• docs.python.org/es — Documentación oficial de Python en español 
+• docs.python.org/3/tutorial — Tutorial oficial paso a paso 
+
+Plataformas de Práctica Gratuitas 
+• replit.com — Editor de Python en el navegador, sin instalación 
+• trinket.io — Python interactivo para principiantes 
+• kaggle.com — Python para ciencia de datos (con certificados) 
+• freecodecamp.org — Cursos gratuitos en inglés y español 
+
+Cursos en Español 
+• Coursera: 'Python para Todos' de la Universidad de Michigan (subtítulos en español) 
+• YouTube: Canal 'Píldoras Informáticas' — curso completo de Python 
+• YouTube: 'Codigofacilito' — tutoriales desde cero en español 
+
+Libros Recomendados 
+• 'Aprende Python en un fin de semana' — Ricardo Moreno 
+• 'Python Crash Course' — Eric Matthes (disponible en español) 
+• 'Automate the Boring Stuff with Python' — Al Sweigart (gratis en línea) 
+
+Links de cursos online
+
+https://www.kaggle.com/learn/python
+
+https://www.sololearn.com/es/
